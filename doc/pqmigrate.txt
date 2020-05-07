@@ -1,0 +1,11 @@
+*pqmigrate.txt* Switch between pqmigrate up/down migrations
+
+Author: Anton Lindström
+License: Same terms as Vim itself (see |license|)
+
+Switch between pqmigrate migrations.
+
+PqMigrateAlternate      " Open alternate in new buffer
+PqMigrateAlternateSplit " Open alternate in split
+
+ vim:tw=78:et:ft=help:norl:
