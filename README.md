@@ -11,7 +11,7 @@ Commands:
 Reporting bugs
 --------------
 
-If you find any bugs or want to provide feedback, you can file bugs in the project's [GitHub Issues page](https://github.com/antonlindstrom/vim-pqmigrate).
+If you find any bugs or want to provide feedback, you can file bugs in the project's [GitHub Issues page](https://github.com/antonlindstrom/vim-pqmigrate/issues).
 
 Author
 ------
